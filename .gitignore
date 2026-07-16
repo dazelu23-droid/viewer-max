@@ -1,0 +1,17 @@
+## Build output
+bin/
+obj/
+
+## Visual Studio / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+## Claude Code local state (machine-specific permissions)
+.claude/
+
+## OS noise
+Thumbs.db
+desktop.ini
